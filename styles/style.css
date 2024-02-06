@@ -27,9 +27,11 @@ body{
   }
   
   .right{
-    margin-left: 450pt;
+    margin-left: 425pt;
   }
 
   #refresh{
     margin-left: 500pt;
+    font-family: Papyrus;
   }
+
