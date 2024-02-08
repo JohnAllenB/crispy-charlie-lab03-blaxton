@@ -7,5 +7,11 @@ $(document).ready(function(){
         var combinedImageUrl = "https://c.tenor.com/Ogqj5PL-m9sAAAAC/tenor.gif";
         $("body").css("background-image", "url('" + combinedImageUrl + "')");
       }
+      
     });
   });
+
+  function reset() {
+    location.reload();
+  }
+  
